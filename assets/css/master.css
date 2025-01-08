@@ -646,7 +646,7 @@ ul.mega-dropdawn-ul.backgroudnone {
   padding: 24px 0;
 }
 .header-area {
-  padding: 30px 0;
+  padding: 10px 0;
 }
 header.about-bg {background: #faf9c5;}
 img.white-line-img {
@@ -2905,6 +2905,7 @@ img.elementor-9 {
   padding: 28px 20px;
   position: relative;
   transition: all .4s ease-in-out;
+  height: 250px;
 }
 
 .guidiance-boxarea {
@@ -12177,6 +12178,12 @@ to {
   }
   .serviceauthior-area h1 {
     line-height: 42px;
+}
+.hideonmobile{
+  display: none;
+}
+.lawprovide-boaxrea{
+  height: auto;
 }
 }
 .careerForm{
