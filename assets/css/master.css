@@ -4145,8 +4145,8 @@ button.quitobtn:hover{
 .border30 {
   border: 1px solid #1D2940;
   opacity: 0.2;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   width: 100%;
 }
 img.approahimages {
@@ -9707,7 +9707,6 @@ img.elementor-19 {
 }
 button.accordion-button.collapsed {
   color: var(--main-color, #1D2940);
-  font-family: 'Lora', serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -9719,7 +9718,6 @@ background: var(--main-color, #1D2940);
 }
 .accordion-button:not(.collapsed){
 color: #fff;
-font-family: 'Lora', serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 600;
@@ -12192,4 +12190,7 @@ to {
   background-color: #121212;
   padding: 10px;
   margin-bottom: 20px;
+}
+.justifytxt{
+  text-align: justify;
 }
